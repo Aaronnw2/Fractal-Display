@@ -1,0 +1,9 @@
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\bin\Debug\Fractal Display.exe
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\bin\Debug\Fractal Display.pdb
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\Fractal_Display.Form1.resources
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\Fractal_Display.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\Fractal Display.exe
+C:\Users\Aaron\Desktop\Fractal Display\Fractal Display\obj\x86\Debug\Fractal Display.pdb
